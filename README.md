@@ -7,6 +7,36 @@
 Hey we put together this emergency vehicle pack and used this 1 year ago. All cars were not created by us and have been adjusted by us for speed and metas...
 The cars are NON-ELS.
 ### ⚠️ This pack replaces all police cars!
+### Replaced:
+#### Police design:
+- FBI
+- FBI2
+- Police
+- Police2
+- Police3
+- Police4
+- Pranger
+- PoliceBike
+- PoliceMaverick
+
+#### Sheriff design:
+- PoliceT
+- PoliceOld1
+- PoliceOld2 
+- Sheriff
+- Sheriff2
+
+## Server.cfg / Cars:
+```
+## Emergency Vehicles
+start EMS
+start Police-Beach-Buggy
+start Police-Cars
+start Police-Mav-Bike
+start Police-SWAT
+start Sheriff-Cars
+start Sheriff-High-Speed-Unit
+```
 
 ## 🖼️Pictures:
 <details>
@@ -67,6 +97,43 @@ EMSNSpeedo: ![emsnspeedo](https://user-images.githubusercontent.com/60815764/185
 EMSRoamer: ![emsroamer](https://user-images.githubusercontent.com/60815764/185718175-fd8ba648-a9fd-4dd2-af2a-6a1f8cbc4f45.png)
 </details>
 
+## 🤖Known Bugs
+- [x] 🤖Error: Invalid fixup, adress is neither virtual nor physical
+<details>
+<summary>More info</summary>
+
+[Issue](https://github.com/Zerofour04/FiveM-EmergencyCarPack/issues/2)
+- If you have this error, I found a solution. With the Google Drive link, the error should be fixed, I believe that GIT-LFS is the problem, but I'm not 100% sure.
+  - [DownloadLink](https://drive.google.com/drive/folders/1EbIUdesGshgqLI5o5fcYXmEvKFNEWISt?usp=share_link)
+
+![image](https://user-images.githubusercontent.com/60815764/207712888-a5c02f66-4243-429e-a3bb-551f9882b11a.png)
+[VirusTotal](https://www.virustotal.com/gui/url/2d7d7016b45eb5e17ee2bb1d993c33b6db911059ce2937829d6aa02ab9e0bf0a?nocache=1)
+
+</details>
+
+- [ ] 🚑I think Ambulance22 isn't working anymore
+
+## 🖥️Performance:
+- ⚠️In general, I mainly used cars that are very detailed and realistic, so performance suffers as a result. Some cars are modeled higher than the standard cars, which can also cause map errors. 
+### Here is the list of cars that need more performance:
+*Of course, you can downscale the cars yourself*
+
+<details>
+<summary>Performance list</summary>
+
+![image](https://user-images.githubusercontent.com/60815764/207721446-5cc89b0d-0d5f-4c4d-b150-b581a5658910.png)
+![image](https://user-images.githubusercontent.com/60815764/207720650-1ba6fb37-d6d0-4d15-a0b4-445f917b5ce9.png)
+![image](https://user-images.githubusercontent.com/60815764/207720750-229fbb26-5e31-45ad-88dd-6a9463b9c323.png)
+![image](https://user-images.githubusercontent.com/60815764/207720781-9725b54f-8e19-4f2a-abd4-bd38bb1c20fd.png)
+![image](https://user-images.githubusercontent.com/60815764/207720852-998f2629-8adc-4b8e-b529-9e3070616195.png)
+![image](https://user-images.githubusercontent.com/60815764/207720932-8b540bc9-7b6f-4fd5-b2c9-3e5c152c5925.png)
+![image](https://user-images.githubusercontent.com/60815764/207720997-d0154790-8322-4652-87c3-3a3b4ac44bb3.png)
+![image](https://user-images.githubusercontent.com/60815764/207721114-c4a7a839-da31-45d4-981b-a266a7e7cb08.png)
+![image](https://user-images.githubusercontent.com/60815764/207721154-3978e8c8-a132-4d8d-b014-6e79e0ad0155.png)
+![image](https://user-images.githubusercontent.com/60815764/207721187-2cc3cb8a-fed4-4d52-bdd3-a69be7a7602b.png)
+
+</details>
+
 ## ⚠️License
 **If you are a creator and don't want the vehicles to be here on GitHub, just create an issue or pull request!**
 
@@ -82,15 +149,3 @@ Since we have invested a lot of time in the car, here is the license:
 - for commercial use
 
 !!!RESPECT THE WORK OF THE CREATORS AND DON'T UPLOAD IT ANYWHERE ELSE!!!
-
-## Server.cfg / Cars:
-```
-## Emergency Vehicles
-start EMS
-start Police-Beach-Buggy
-start Police-Cars
-start Police-Mav-Bike
-start Police-SWAT
-start Sheriff-Cars
-start Sheriff-High-Speed-Unit
-```
