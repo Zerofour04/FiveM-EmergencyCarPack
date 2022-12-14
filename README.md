@@ -4,8 +4,8 @@
 **Hey, the cars were NOT created by me! I don't know which people I downloaded the cars from. I used the cars a year ago and want to release this pack because I don't play fivem anymore and want to help some people. If you are also one of the creators, just create a pull request/issues!**
 
 ## ℹ️Information / Modification:
-Hey we put together this emergency vehicle pack and used this 1 year ago. All cars were not created by us and have been adjusted by us for speed and metas...
-The cars are NON-ELS.
+Hey we put together this emergency vehicle pack and used this 1 year ago. The cars also have a variety of designs and light arrangements. All cars were not created by us and have been adjusted by us for speed and metas...
+The cars are NON-ELS. 
 ### ⚠️ This pack replaces all police cars!
 ### Replaced:
 #### Police design:
