@@ -1,46 +1,52 @@
-# 🚓FiveM EmergencyCars ( 19 Cars )
+<h1 align="center">🚓FiveM EmergencyCars ( 19 Cars )</h1>
+<p align="center">
+    <img alt="" src="https://img.shields.io/github/stars/Zerofour04/FiveM-EmergencyCarPack.svg?style=for-the-badge">
+    <img alt="" src="https://madewithlove.now.sh/de?heart=true&colorB=%23ec2237&template=for-the-badge">
+    <img alt="" src="https://img.shields.io/github/followers/Zerofour04.svg?style=for-the-badge&label=Follow&maxAge=2592000">
+</p>
 
-## ⭐CREDITS / ❗Copyright
-**Hey, the cars were NOT created by me! I don't know which people I downloaded the cars from. I used the cars a year ago and want to release this pack because I don't play fivem anymore and want to help some people. If you are also one of the creators, just create a pull request/issues!**
+## ℹ️Information
+- Hey we put together this emergency vehicle pack and used this 1 year ago.
+- The cars also have a variety of designs and light arrangements.
+- All cars were not created by us and have been adjusted by us for speed and metas...
+- The cars are NON-ELS.
 
-## ℹ️Information / Modification:
-Hey we put together this emergency vehicle pack and used this 1 year ago. The cars also have a variety of designs and light arrangements. All cars were not created by us and have been adjusted by us for speed and metas...
-The cars are NON-ELS. 
-### ⚠️ This pack replaces all police cars!
-### Replaced:
-#### Police design:
-- FBI
-- FBI2
-- Police
-- Police2
-- Police3
-- Police4
-- Pranger
-- PoliceBike
-- PoliceMaverick
+## ⭐Features
+- **⚠️ This pack replaces all police cars!**
+- Replaced Police design:
+  - FBI
+  - FBI2
+  - Police
+  - Police2
+  - Police3
+  - Police4
+  - Pranger
+  - PoliceBike / Policeb
+  - PoliceMaverick / Polmav
 
-#### Sheriff design:
-- PoliceT
-- PoliceOld1
-- PoliceOld2 
-- Sheriff
-- Sheriff2
+- Replaced FBI design:
+  - FBI
+  - FBI2
+    
+- Replaced Sheriff design:
+  - PoliceT
+  - PoliceOld1
+  - PoliceOld2 
+  - Sheriff
+  - Sheriff2
 
-## Server.cfg / Cars:
-```
-## Emergency Vehicles
-start EMS
-start Police-Beach-Buggy
-start Police-Cars
-start Police-Mav-Bike
-start Police-SWAT
-start Sheriff-Cars
-start Sheriff-High-Speed-Unit
-```
+- Added special police cars:
+  - Pitbullbb / SWAT
+  - Gatorfire / Beach-Buggy
+ 
+- Added EMS:
+  - Ambulance22
+  - EMSNSpeedo
+  - EMSRoamer
 
-## 🖼️Pictures:
+## 🖼️Pictures
 <details>
-<summary>Police:</summary>
+<summary>🚓Police:</summary>
 
 Police: ![police](https://user-images.githubusercontent.com/60815764/185717474-f5a08f63-39fd-4f5c-bc25-3b70ff331d8c.png)
 
@@ -52,7 +58,7 @@ Police4: ![police4](https://user-images.githubusercontent.com/60815764/185717524
 </details>
 
 <details>
-<summary>Sheriff:</summary>
+<summary>🚓Sheriff:</summary>
 
 Sheriff: ![sheriff](https://user-images.githubusercontent.com/60815764/185719239-61c0ce69-b287-415a-8aa2-340a69dec6f5.png)
 
@@ -62,7 +68,7 @@ PoliceTransporter: ![policet](https://user-images.githubusercontent.com/60815764
 </details>
 
 <details>
-<summary>Special Policecars:</summary>
+<summary>🚓Special Policecars:</summary>
 
 Gatorfire: ![gatorfire](https://user-images.githubusercontent.com/60815764/185719017-7c7d1425-2b3f-4321-b1f8-6f3f7cea3bbc.png)
 
@@ -80,7 +86,7 @@ Pranger: ![pranger](https://user-images.githubusercontent.com/60815764/185719472
 </details>
 
 <details>
-<summary>FBI:</summary>
+<summary>🚓FBI:</summary>
 
 FBI: ![fbi](https://user-images.githubusercontent.com/60815764/185718424-391aed18-7103-462c-859e-1f150e62a210.png)
 
@@ -88,7 +94,7 @@ FBI2: ![fbi2](https://user-images.githubusercontent.com/60815764/185718435-056b8
 </details>
 
 <details>
-<summary>Ambulances:</summary>
+<summary>🚑Ambulances:</summary>
 
 Ambulance22: ![ambulance22](https://user-images.githubusercontent.com/60815764/185718126-6987a98a-bb82-4345-9b32-a521e5277fed.png)
 
@@ -96,6 +102,19 @@ EMSNSpeedo: ![emsnspeedo](https://user-images.githubusercontent.com/60815764/185
 
 EMSRoamer: ![emsroamer](https://user-images.githubusercontent.com/60815764/185718175-fd8ba648-a9fd-4dd2-af2a-6a1f8cbc4f45.png)
 </details>
+
+## 📋Download & 🛠️Installation
+### Server.cfg
+```
+## Emergency Vehicles
+start EMS
+start Police-Beach-Buggy
+start Police-Cars
+start Police-Mav-Bike
+start Police-SWAT
+start Sheriff-Cars
+start Sheriff-High-Speed-Unit
+```
 
 ## 🤖Known Bugs
 - [x] 🤖Error: Invalid fixup, adress is neither virtual nor physical
@@ -134,18 +153,10 @@ EMSRoamer: ![emsroamer](https://user-images.githubusercontent.com/60815764/18571
 
 </details>
 
+## 💌Credits / ❗Copyright
+**Hey, the cars were NOT created by me! I don't know which people I downloaded the cars from. I used the cars a year ago and want to release this pack because I don't play FiveM anymore and want to help some people. If you are also one of the creators, just create a pull request/issue!**
+
 ## ⚠️License
-**If you are a creator and don't want the vehicles to be here on GitHub, just create an issue or pull request!**
-
-Since we have invested a lot of time in the car, here is the license:
-
-**✅You're allowed:**
-- to modify the vehicles
-- to share the vehicles
-- for private use
-
-**❌You're NOT ALLOWED:**
-- to upload the resource somewhere else
-- for commercial use
-
-!!!RESPECT THE WORK OF THE CREATORS AND DON'T UPLOAD IT ANYWHERE ELSE!!!
+- **If you are a creator and don't want the vehicles to be here on GitHub, just create an issue or pull request!**
+- Since we have invested a lot of time in the car, here is the license:
+  - [LICENSE](/LICENSE)
